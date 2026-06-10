@@ -1,0 +1,37 @@
+[
+    {
+        "time": "2026-06-10T12:27:04Z",
+        "user": "security-admin",
+        "event": "AttachUserPolicy",
+        "risk": "Privilege escalation attempt detected",
+        "severity": "CRITICAL"
+    },
+    {
+        "time": "2026-06-10T12:18:20Z",
+        "user": "security-admin",
+        "event": "AttachUserPolicy",
+        "risk": "Privilege escalation attempt detected",
+        "severity": "CRITICAL"
+    },
+    {
+        "time": "2026-06-10T12:18:20Z",
+        "user": "security-admin",
+        "event": "CreateUser",
+        "risk": "New IAM user created",
+        "severity": "HIGH"
+    },
+    {
+        "time": "2026-06-10T11:53:45Z",
+        "user": "Unknown",
+        "event": "AttachUserPolicy",
+        "risk": "Privilege escalation attempt detected",
+        "severity": "CRITICAL"
+    },
+    {
+        "time": "2026-06-10T11:53:44Z",
+        "user": "Unknown",
+        "event": "CreateUser",
+        "risk": "New IAM user created",
+        "severity": "HIGH"
+    }
+]

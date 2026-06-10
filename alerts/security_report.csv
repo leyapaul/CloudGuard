@@ -1,0 +1,6 @@
+Time,User,Event,Severity,Risk
+2026-06-10T12:27:04Z,security-admin,AttachUserPolicy,CRITICAL,Privilege escalation attempt detected
+2026-06-10T12:18:20Z,security-admin,AttachUserPolicy,CRITICAL,Privilege escalation attempt detected
+2026-06-10T12:18:20Z,security-admin,CreateUser,HIGH,New IAM user created
+2026-06-10T11:53:45Z,Unknown,AttachUserPolicy,CRITICAL,Privilege escalation attempt detected
+2026-06-10T11:53:44Z,Unknown,CreateUser,HIGH,New IAM user created
